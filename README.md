@@ -39,9 +39,10 @@ STEP 7:
 Plot the performnace
 
 ## PROGRAM
-
+```
 DEVELOPED BY: Lathika Sunder
 REGISTER NUMBER:212221230054
+```
 ~~~
 import numpy as np
 import matplotlib.pyplot as plt
